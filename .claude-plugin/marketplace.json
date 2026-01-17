@@ -1,0 +1,31 @@
+{
+"name": "elysia-agents",
+"owner": {
+"name": "Prasert Jaipet",
+"email": "prasert.jaipet@gmail.com",
+"url": "https://github.com/createder"
+},
+"plugins": [
+{
+"name": "elysia-expert",
+"description": "Claude code plugin for elysia expert",
+"source": "./plugins/elysia-expert",
+"version": "1.0.0",
+"author": {
+"name": "Prasert Jaipet",
+"url": "https://github.com/aekram43"
+
+},
+      "homepage": "https://github.com/createder/elysia-agent",
+      "repository": "https://github.com/createder/elysia-agent",
+      "license": "MIT",
+      "keywords": [
+        "debugging",
+        "developer-experience",
+        "troubleshooting",
+        "essential"
+      ]
+
+}
+]
+}
