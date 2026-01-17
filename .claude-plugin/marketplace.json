@@ -9,7 +9,7 @@
 {
 "name": "elysia-expert",
 "description": "Claude code plugin for elysia expert",
-"source": { "source": "github", "repo": "createder/elysia-agent" },
+"source": "/plugins/elysia-expert",
 "version": "1.0.0",
 "author": {
 "name": "Prasert Jaipet",
