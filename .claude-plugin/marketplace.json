@@ -1,15 +1,15 @@
 {
 "name": "elysia-agents",
 "owner": {
-"name": "Prasert Jaipet",
-"email": "prasert.jaipet@gmail.com",
+"name": "Createder co, ltd",
+"email": "contact@createder.com",
 "url": "https://github.com/createder"
 },
 "plugins": [
 {
 "name": "elysia-expert",
 "description": "Claude code plugin for elysia expert",
-"source": "./plugins/elysia-expert",
+"source": { "source": "github", "repo": "createder/elysia-agent" },
 "version": "1.0.0",
 "author": {
 "name": "Prasert Jaipet",
