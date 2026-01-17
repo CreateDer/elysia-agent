@@ -25,6 +25,8 @@
         "troubleshooting",
         "essential"
       ],
+      "category": "backend framework",
+      "strict": false,
       "commands": ["./commands/issue.md", "./commands/task.md","./commands/prompt.md"],
       "agents": [
         "./agents/elysia-expert.md"
