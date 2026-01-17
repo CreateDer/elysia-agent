@@ -24,7 +24,15 @@
         "developer-experience",
         "troubleshooting",
         "essential"
+      ],
+      "commands": ["./commands/issue.md", "./commands/task.md","./commands/prompt.md"],
+      "agents": [
+        "./agents/elysia-expert.md"
+      ],
+      "skills": [
+        "./skills/elysia-framework"
       ]
+
 
 }
 ]
