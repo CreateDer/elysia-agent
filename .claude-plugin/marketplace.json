@@ -5,6 +5,10 @@
 "email": "contact@createder.com",
 "url": "https://github.com/createder"
 },
+"metadata": {
+   "description": "Elysia JS Framework developer expert agent and skill",
+  "version": "1.0.0"
+},
 "plugins": [
 {
 "name": "elysia-expert",
@@ -12,30 +16,27 @@
 "source": "./plugins/elysia-expert",
 "version": "1.0.0",
 "author": {
-"name": "Prasert Jaipet",
-"url": "https://github.com/aekram43"
-
+  "name": "Prasert Jaipet",
+  "url": "https://github.com/aekram43"
 },
-      "homepage": "https://github.com/createder/elysia-agent",
-      "repository": "https://github.com/createder/elysia-agent",
-      "license": "MIT",
-      "keywords": [
-        "debugging",
-        "developer-experience",
-        "troubleshooting",
-        "essential"
-      ],
-      "category": "backend framework",
-      "strict": false, 
-      "commands": ["./commands/issue.md", "./commands/task.md","./commands/prompt.md"],
-      "agents": [
-        "./agents/elysia-expert.md"
-      ],
-      "skills": [
-        "./skills/elysia-framework"
-      ]
-
-
+"homepage": "https://github.com/createder/elysia-agent",
+"repository": "https://github.com/createder/elysia-agent",
+"license": "MIT",
+"keywords": [
+  "debugging",
+  "developer-experience",
+  "troubleshooting",
+  "essential"
+],
+"category": "backend framework",
+"strict": false, 
+"commands": ["./commands/issue.md", "./commands/task.md","./commands/prompt.md"],
+"agents": [
+  "./agents/elysia-expert.md"
+],
+"skills": [
+  "./skills/elysia-framework"
+]
 }
 ]
 }
